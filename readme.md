@@ -1,12 +1,12 @@
 # CRUD of clients aplication console
 
-## Description
+## Descripción
 
 Este proyecto es una aplicacion de consola que implementa un CRUD de los datos de persosan, datos que se pueden almacenar
 y administrar desde un .csv. este proyecto se realiza atra vez de un curso con el fin aprender el uso del framework CLICK
 para la creacion de aplicaciones de consola y mejorar mis habilidades en python.
 
-## Instalacion
+## Instalación
 Si quieres correr el proyecto puedes seguir los sifuientes pasos:
 
 1. Clona el repositorio en tu máquina local.
