@@ -18,8 +18,7 @@ Si quieres correr el proyecto puedes seguir los sifuientes pasos:
 4. Navegas al direcorio del proyecto y ejecutas `python -m venv env`
  - Para activarlo puedes hacer lo siguiente:
 	1. WINDOWS
-		- cd env/script
-		- ./activate
+		- ./env/scripts/activate
 	2. LUNIX
 		- source env/scripts/activate
 
