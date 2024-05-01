@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una aplicacion de consola que implementa un CRUD de los datos de persosan, datos que se pueden almacenar
+Este proyecto es una aplicacion de consola que implementa un CRUD de los datos de persosas, datos que se pueden almacenar
 y administrar desde un .csv. este proyecto se realiza atra vez de un curso con el fin aprender el uso del framework CLICK
 para la creacion de aplicaciones de consola y mejorar mis habilidades en python.
 
